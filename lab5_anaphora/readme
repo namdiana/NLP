@@ -1,1 +1,9 @@
 The size of file wiki.en.bin is 7,91 ГБ, but git allows only 25 MB 
+
+from https://fasttext.cc/docs/en/support.html
+Requirements
+fastText builds on modern Mac OS and Linux distributions. Since it uses C++11 features, it requires a compiler with good C++11 support. These include :
+
+(gcc-4.6.3 or newer) or (clang-3.3 or newer)
+
+
