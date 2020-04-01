@@ -5,5 +5,6 @@
 В случае необходимост и могу доотправлять файлы
 lab4_reduced.ipynb содержит аналогичные шаги для обрезанного датасета (описание внутри ноутбука)
 
+Опечатка в classification report. The data was given in testing dataset (not training)
 Надеюсь на понимание,
 с.у Диана
